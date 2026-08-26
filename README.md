@@ -38,17 +38,17 @@ const uditDas = {
 
 #### Encore — Event Ticket Booking Website
 
-A full-stack event ticket booking website with a responsive frontend, Express.js backend, REST APIs, event filtering, ticket quantity selection, and booking confirmation.
+A full-stack event ticket booking website with a responsive frontend, an Express.js backend, REST APIs, event filtering, ticket quantity selection, and booking confirmation.
 
 <a href="https://github.com/udit006-hub/encore-event-booking-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=udit006-hub&repo=encore-event-booking-website&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Encore Event Booking Website"/>
 </a>
 
-| Layer     | Technology         |
-|-----------|---------------------|
-| Frontend  | HTML, CSS, JavaScript |
-| Backend   | Express.js           |
-| API       | REST APIs             |
+| Layer    | Technology            |
+|----------|------------------------|
+| Frontend | HTML, CSS, JavaScript  |
+| Backend  | Express.js             |
+| API      | REST APIs              |
 
 🔗 [Live Demo](https://encore-event-booking-website.vercel.app/) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/udit006-hub/encore-event-booking-website)
 
@@ -81,11 +81,15 @@ A full-stack event ticket booking website with a responsive frontend, Express.js
 
 </div>
 
+---
+
 ### 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=udit006-hub&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 </div>
+
+---
 
 ### 📈 Contribution Activity
 
