@@ -1,111 +1,27 @@
-<div align="center">
+# 💫 About Me:
+<br><br>🔭 I’m currently working on **Data Analyst, Generative AI & WEB Development projects**<br>👯 I’m looking to collaborate on **Data analyst projects, hackathons & innovative ideas**<br>🤝 I’m looking for help with **advanced GenAI, system design & building production-ready AI solutions**<br>🌱 I’m currently learning **Generative AI, Automation & Data Structures & Algorithms**<br>💬 Ask me about **Python, Java, GenAI, Hackathons & Project Development**<br>⚡ Fun fact: **I love turning ideas into projects and competing in hackathons 🚀**<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Udit%20Das&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer;Frontend+with+HTML%2C+CSS+%26+JS;Exploring+Gen+AI+%26+Data+Analytics" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uditdas_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udit-das-89a4b3333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uditdas006@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=udit006-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=udit006-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=udit006-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=udit006-hub&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/udit006-hub?label=Followers&style=flat-square&color=7dd3fc)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=udit006-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 👤 Who I Am
-
-```typescript
-const uditDas = {
-  title: "Computer Science Student",
-  stack: {
-    languages: ["Java"],
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend: ["Express.js"],
-  },
-  launchedProjects: ["encore-event-booking-website"],
-  certifications: [],
-  status: "Still learning Gen AI and Data Analytics",
-  openTo: "Collaborating on full-stack and Java projects",
-};
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=udit006-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=udit006-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects
-
-#### Encore — Event Ticket Booking Website
-
-A full-stack event ticket booking website with a responsive frontend, an Express.js backend, REST APIs, event filtering, ticket quantity selection, and booking confirmation.
-
-<a href="https://github.com/udit006-hub/encore-event-booking-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udit006-hub&repo=encore-event-booking-website&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Encore Event Booking Website"/>
-</a>
-
-| Layer    | Technology            |
-|----------|------------------------|
-| Frontend | HTML, CSS, JavaScript  |
-| Backend  | Express.js             |
-| API      | REST APIs              |
-
-🔗 [Live Demo](https://encore-event-booking-website.vercel.app/) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/udit006-hub/encore-event-booking-website)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=java)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=html,css,js)
-
-**Backend / Infra**
-
-![Skills](https://skillicons.dev/icons?i=express)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=udit006-hub&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit006-hub&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=udit006-hub&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=udit006-hub&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udit006-hub&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-das-89a4b3333/)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditdas006@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
