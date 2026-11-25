@@ -1,10 +1,10 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Udit%20Das&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20GenAI%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Udit%20Das&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=620&lines=Turning+ideas+into+projects+%F0%9F%9A%80;Data+Analytics+%7C+Generative+AI+%7C+Web+Dev;Building+production-ready+AI+solutions;Always+up+for+a+good+hackathon+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=620&lines=Turning+ideas+into+projects+%F0%9F%9A%80;AI%2FML+%7C+Generative+AI+%7C+Web+Dev;Building+production-ready+AI+solutions;Always+up+for+a+good+hackathon+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,13 +19,13 @@
 
 ## 👋 About Me
 
-I love turning ideas into working projects, and hackathons are where I do that fastest. I work across data analysis, generative AI and web development.
+I love turning ideas into working projects, and hackathons are where I do that fastest. I work across AI/ML, generative AI and web development.
 
 | | |
 |---|---|
-| 🔭 **Working on** | Data Analyst, Generative AI & Web Development projects |
+| 🔭 **Working on** | AI/ML, Generative AI & Web Development projects |
 | 🌱 **Learning** | Generative AI, Automation, Data Structures & Algorithms |
-| 👯 **Looking to collaborate on** | Data analyst projects, hackathons & innovative ideas |
+| 👯 **Looking to collaborate on** | AI/ML projects, hackathons & innovative ideas |
 | 🤝 **Looking for help with** | Advanced GenAI, system design & production-ready AI solutions |
 | 💬 **Ask me about** | Python, Java, GenAI, Hackathons & Project Development |
 | ⚡ **Fun fact** | I love competing in hackathons and shipping ideas fast 🚀 |
@@ -40,7 +40,7 @@ I love turning ideas into working projects, and hackathons are where I do that f
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Data & Analytics**
+**Data & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -82,7 +82,7 @@ I love turning ideas into working projects, and hackathons are where I do that f
 
 ## 🤝 Let's Connect
 
-If you have a data project, a hackathon team in the making, or an idea worth building, reach out. I'm always happy to collaborate.
+If you have an AI/ML project, a hackathon team in the making, or an idea worth building, reach out. I'm always happy to collaborate.
 
 <div align="center">
 
