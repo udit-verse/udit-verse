@@ -59,12 +59,12 @@ I love turning ideas into working projects, and hackathons are where I do that f
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=udit006-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit006-hub&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=udit-verse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-verse&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=udit006-hub&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=udit-verse&theme=radical&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -74,7 +74,7 @@ I love turning ideas into working projects, and hackathons are where I do that f
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=udit006-hub&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/udit006-hub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=udit-verse&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/udit-verse)
 
 </div>
 
@@ -86,7 +86,7 @@ If you have an AI/ML project, a hackathon team in the making, or an idea worth b
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=udit006-hub&color=24c6dc&style=flat-square&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=udit-verse&color=24c6dc&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
