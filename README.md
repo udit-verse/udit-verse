@@ -70,11 +70,11 @@ I love turning ideas into working projects, and hackathons are where I do that f
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=udit-verse&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/udit-verse)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udit-verse&bg_color=0d1117&color=24c6dc&line=302b63&point=ffffff&area=true&area_color=24c6dc&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
