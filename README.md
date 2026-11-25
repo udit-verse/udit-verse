@@ -90,4 +90,4 @@ If you have an AI/ML project, a hackathon team in the making, or an idea worth b
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=140&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer" />
